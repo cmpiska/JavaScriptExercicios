@@ -1,0 +1,19 @@
+body {
+    background-color: greenyellow;
+    color: grey;
+}
+
+div {
+    font-size: 500px;
+    text-align: center;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    text-decoration: dashed;
+    font-size: 45px;
+    border-radius: 5px;
+    border: 10px;
+    border-color: black;
+}
